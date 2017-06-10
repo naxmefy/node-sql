@@ -1,1 +1,1 @@
-# node-sql
+# @naxmefy/sql
